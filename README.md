@@ -34,6 +34,9 @@
 ## 优信云机场跑路
 目前优信云机场没有跑路，可以放心使用。
 
+## 优信云机场评测
+更多有关优信云机场评测可访问：[https://youxincloud.info/](https://youxincloud.info/)
+
 ## 更多推荐
  - [Clash节点推荐](https://github.com/clashdownload/Clash)
  - [好用的Clash节点购买机场推荐](https://clash.top/node/?utm_source=github&utm_medium=clashdownload-details)
